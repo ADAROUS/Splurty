@@ -6,7 +6,7 @@
   clear: both;
 }
 
-.circle {
+    .circle {
     font-weight:bold;
     font-style: italic;
     position: relative;
@@ -60,6 +60,7 @@
 
     h2 {
     font-family: 'fontspring_demo', serif;
+    text-align: center; 
 }
 
     .next-quote {
@@ -97,4 +98,6 @@
     ::selection {
     background-color: #f84342;
 }
+
+  
 
